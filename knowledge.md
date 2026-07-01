@@ -1,182 +1,126 @@
 # Triostack Knowledge Base
 
-## Company
+## Company Overview
 
-Triostack is a software development company serving businesses in Dubai, UAE, and globally.
+Triostack is a premier software development company based in India, dedicated to delivering cutting-edge technology solutions to businesses worldwide. We proudly serve a diverse, international clientele across the globe, including major markets in the UAE, Saudi Arabia, Qatar, India, and beyond. Our mission is to empower global businesses through scalable, innovative, and robust software solutions.
 
 ---
 
-## Services
+## Services & Pricing
 
 ### Website Development
+We build highly responsive, SEO-optimized, and aesthetically pleasing websites tailored to our clients' global audiences.
+- **Business Websites**
+- **Corporate Websites**
+- **E-commerce Websites**
+- **Landing Pages**
 
-- Business Websites
-- Corporate Websites
-- E-commerce Websites
-- Landing Pages
-
-Starting Price: $1,500
-
----
+**Starting Price:** $1,500
 
 ### CRM Development
-
-Starting Price: $12,000
-
-Features:
-
-- Lead Management
-- WhatsApp Integration
-- Sales Pipeline
-- Reports
-- Dashboard
-
----
+Custom Customer Relationship Management systems designed to streamline global operations and enhance client relationships.
+- **Starting Price:** $12,000
+- **Key Features:**
+  - Lead Management & Tracking
+  - WhatsApp Integration for seamless communication
+  - Advanced Sales Pipeline Visualization
+  - Comprehensive Analytics and Reports
+  - Intuitive Admin Dashboard
 
 ### ERP Development
-
-Starting Price: $20,000
-
-Modules
-
-- Inventory
-- HR
-- Payroll
-- Purchase
-- Sales
-- Accounts
-
----
+Enterprise Resource Planning solutions built for scalability, helping international businesses manage complex organizational workflows.
+- **Starting Price:** $20,000
+- **Core Modules:**
+  - Inventory Management
+  - Human Resources (HR)
+  - Payroll Systems
+  - Purchase & Procurement
+  - Sales & Invoicing
+  - Accounting & Finance
 
 ### AI Automation
-
-Starting Price: $5,000
-
-Services
-
-- n8n Automation
-- AI Chatbots
-- GPT Integration
-- WhatsApp AI
-- Email Automation
+Leveraging Artificial Intelligence to automate repetitive tasks and optimize workflows for modern enterprises.
+- **Starting Price:** $5,000
+- **Services Offered:**
+  - n8n Automation Workflows
+  - AI Chatbots (Customer Support & Sales)
+  - GPT Integrations (OpenAI, Claude, etc.)
+  - WhatsApp AI Agents
+  - Intelligent Email Automation
 
 ---
 
-## Technologies
+## Technology Stack
 
-Frontend
+Our engineering team utilizes a modern, robust, and scalable technology stack to ensure high performance for global applications.
 
-- React
-- Next.js
-- TypeScript
+### Frontend
+- **React**
+- **Next.js**
+- **TypeScript**
 
-Backend
+### Backend
+- **Node.js**
+- **Express.js**
+- **NestJS**
 
-- Node.js
-- Express
-- NestJS
+### Database
+- **MongoDB** (NoSQL)
+- **PostgreSQL** (Relational)
 
-Database
-
-- MongoDB
-- PostgreSQL
-
-Cloud
-
-- Docker
-- AWS
-- Nginx
+### Cloud & DevOps
+- **Docker** (Containerization)
+- **AWS** (Amazon Web Services)
+- **Nginx** (Web Server & Reverse Proxy)
 
 ---
 
-## Portfolio
+## Portfolio Highlights
 
-Project
+### Custom CRM
+- **Industry:** Real Estate
+- **Key Features:** Advanced Lead Management, Automated WhatsApp Follow-ups, Comprehensive Sales Reports.
+- **Impact:** Streamlined property management and enhanced agent-client communication.
 
-Custom CRM
-
-Industry
-
-Real Estate
-
-Features
-
-Lead Management
-
-WhatsApp
-
-Reports
+### Custom ERP
+- **Industry:** Manufacturing
+- **Key Modules:** Inventory Tracking, Purchase Orders, Human Resources, Financial Accounts.
+- **Impact:** Unified disparate business processes into a single source of truth for global operations.
 
 ---
 
-Project
+## Frequently Asked Questions (FAQ)
 
-ERP
+**Q: Where are you located?**
+**A:** Our primary development center is located in India, but we operate globally.
 
-Industry
+**Q: Which countries do you serve?**
+**A:** We serve international clients worldwide. While we have a strong footprint in the UAE, Saudi Arabia, Qatar, and India, our services are available to businesses in any country across the globe.
 
-Manufacturing
+**Q: How long does a typical development project take?**
+**A:** Depending on the complexity and scope, projects usually take between 4 to 16 weeks to go from discovery to deployment.
 
-Modules
-
-Inventory
-
-Purchase
-
-HR
-
-Accounts
+**Q: Do you provide post-launch maintenance and support?**
+**A:** Yes, we offer comprehensive maintenance and support packages to ensure your software remains secure, up-to-date, and performs optimally.
 
 ---
 
-## FAQ
+## Our Sales & Onboarding Process
 
-Q: Where are you located?
+We follow a structured approach to ensure transparency and success for our international clients:
 
-A: India
-
-Q: Which countries do you serve?
-
-A: UAE, Saudi Arabia, Qatar, India.
-
-Q: How long does development take?
-
-A: Usually 4–16 weeks.
-
-Q: Do you provide maintenance?
-
-A: Yes.
+1. **Discovery Call:** Understanding your business needs, goals, and target audience.
+2. **Requirement Analysis:** Deep dive into technical requirements and feature mapping.
+3. **Proposal:** Providing a detailed project plan, timeline, and cost estimation.
+4. **Development:** Agile software development with regular updates and milestones.
+5. **Testing:** Rigorous Quality Assurance (QA) to ensure a bug-free experience.
+6. **Deployment:** Smooth launch and migration to production environments.
+7. **Support:** Ongoing maintenance and performance monitoring.
 
 ---
 
-## Sales Process
+## Contact Information
 
-1. Discovery Call
-
-2. Requirement Analysis
-
-3. Proposal
-
-4. Development
-
-5. Testing
-
-6. Deployment
-
-7. Support
-
----
-
-## Contact
-
-Website
-
-https://www.triostackglobal.com
-
-Email
-
-info@triostack.in 
-
-Phone
-
-+919211941924
+- **Website:** [https://www.triostackglobal.com](https://www.triostackglobal.com)
+- **Email:** [info@triostack.in](mailto:info@triostack.in)
+- **Phone:** +91 9211941924
